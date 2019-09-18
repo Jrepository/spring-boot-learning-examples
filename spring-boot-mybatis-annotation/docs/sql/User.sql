@@ -1,0 +1,6 @@
+CREATE TABLE "USER" (
+"ID" NVARCHAR2(36) NOT NULL ,
+"name" NVARCHAR2(36) NULL ,
+"age" NUMBER NULL
+);
+commit;
