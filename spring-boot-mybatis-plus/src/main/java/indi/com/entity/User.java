@@ -1,10 +1,10 @@
 package indi.com.entity;
 
+import com.baomidou.mybatisplus.annotation.TableField;
+import com.baomidou.mybatisplus.annotation.TableName;
+import com.baomidou.mybatisplus.extension.activerecord.Model;
+
 import java.math.BigDecimal;
-    import com.baomidou.mybatisplus.annotation.TableName;
-    import com.baomidou.mybatisplus.extension.activerecord.Model;
-    import com.baomidou.mybatisplus.annotation.TableField;
-    import java.io.Serializable;
 
 /**
 *
